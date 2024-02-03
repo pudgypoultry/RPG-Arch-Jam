@@ -1,0 +1,7 @@
+Row 1 - Wait
+Row 2 - Basic Attack
+Row 3 - Take Damage
+Row 4 - KO/Death
+Row 5 - Move*
+
+*Current sheet set up is heroes default facing right, enemies left. Row 5 is setup to act as frame 1 and 2 are approach enemy, and frames 3 and 4 are retreat from enemy. These frames are used in a similar fashion to how Xenogears setup movement across the battle scene.

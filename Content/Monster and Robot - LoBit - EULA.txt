@@ -1,0 +1,6 @@
+Thank you for using RPGA/Monster and Robot Generic assets by Nathan Benner (Tolin42).
+
+The included assets were developed as reference and tests throughout the development of RPG Architect and can be used as reference for your
+own assets or used as-is to make your development easier.
+
+With the purchase of a license for RPG Architect, you are allowed to use these resources for any RPG Architect project, free or commercial.
